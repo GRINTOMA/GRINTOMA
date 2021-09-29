@@ -1,5 +1,4 @@
-<div align="center">
-  <h1 align="center">Hi 👋, I'm Matt Grinton</h1>
+<h1 align="center">Hi 👋, I'm Matt Grinton</h1>
 <h3 align="center">A recent college graduate and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grintoma&label=Profile%20views&color=0e75b6&style=flat" alt="grintoma" /> </p>
@@ -25,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grintoma&show_icons=true&locale=en&layout=compact" alt="grintoma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grintoma&show_icons=true&locale=en" alt="grintoma" /></p>
-
-</div>
