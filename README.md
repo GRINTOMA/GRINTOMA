@@ -9,7 +9,7 @@
 
 -  📫 How to reach me **matt.grinton@gmail.com**
 
--  📄 Know about my experiences [https://github.com/GRINTOMA/GRINTOMA/blob/a6491950796e7b2c90ef35ec17743d39eb760877/Matthew%20Grinton's%20Resume.pdf](https://github.com/GRINTOMA/GRINTOMA/blob/68561ca06a456881b8cd948762c2b940cdde89e0/Matthew%20Grinton's%20Resume.pdf)
+-  📄 Know about my experiences [https://github.com/GRINTOMA/GRINTOMA/blob/a6491950796e7b2c90ef35ec17743d39eb760877/Matthew%20Grinton's%20Resume.pdf](My Resume)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
