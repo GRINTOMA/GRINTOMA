@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=grintoma&label=Profile%20views&color=0e75b6&style=flat" alt="grintoma" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grintoma" alt="grintoma" /></a> </p>
-
 - 🔭 I’m currently working on [A React & SpringBoot Web App Store](https://www.github.com/GRINTOMA/Team-App-Dev)
 
 - 🌱 I’m currently learning **Python and Ruby**
