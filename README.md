@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/GRINTOMA/GRINTOMA/master/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/GRINTOMA/GRINTOMA/master/wave.gif" width="30px">
 
 My name is Matthew Grinton, I'm a Canadian software developer who recently graduated from Sheridan College.
 
