@@ -8,8 +8,8 @@ I'm currently working on a React and SpringBoot based web app store. Check it ou
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grintoma&layout=compact&theme=github_dark)](https://github.com/grintoma)
 [![Grintoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=grintoma&layout=compact&theme=github_dark)](https://github.com/grintoma)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grintoma&layout=compact&theme=github_dark)](https://github.com/grintoma)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grintoma&repo=.NetTech-Assignment2-Movie_Database&theme=github_dark)](https://github.com/grintoma/.NetTech-Assignment2-Movie_Database)
 
 <!--
