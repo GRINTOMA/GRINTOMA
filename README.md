@@ -2,6 +2,7 @@
 <h3 align="center">A recent college graduate and developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=grintoma&label=Profile%20views&color=0e75b6&style=flat" alt="grintoma" /> </p>
+
 -  🔭 I’m currently working on [A React & SpringBoot Web App Store](https://www.github.com/GRINTOMA/Team-App-Dev)
 
 -  🌱 I’m currently learning **Python and Ruby**
