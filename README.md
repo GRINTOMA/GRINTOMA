@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there! <img src="https://raw.githubusercontent.com/GRINTOMA/GRINTOMA/master/wave.gif" width="30px">
 
+My name is Matthew Grinton, I'm a Canadian software developer who recently graduated from Sheridan College. You can find me on [![LinkedIn][3.2]][3].
 <!--
 **GRINTOMA/GRINTOMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
