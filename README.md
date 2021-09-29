@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Matt Grinton</h1>
 <h3 align="center">A recent college graduate and developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=grintoma&label=Profile%20views&color=0e75b6&style=flat" alt="grintoma" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=grintoma&label=Profile%20views&color=0e75b6&style=flat" alt="grintoma" />
 
-🔭 I’m currently working on [A React & SpringBoot Web App Store](https://www.github.com/GRINTOMA/Team-App-Dev)
+- 🔭 I’m currently working on [A React & SpringBoot Web App Store](https://www.github.com/GRINTOMA/Team-App-Dev)
 
-🌱 I’m currently learning **Python and Ruby**
+- 🌱 I’m currently learning **Python and Ruby**
 
-📫 How to reach me **matt.grinton@gmail.com**
+- 📫 How to reach me **matt.grinton@gmail.com**
 
-📄 Know about my experiences [https://github.com/GRINTOMA/GRINTOMA/blob/a6491950796e7b2c90ef35ec17743d39eb760877/Matthew%20Grinton's%20Resume.pdf](https://github.com/GRINTOMA/GRINTOMA/blob/68561ca06a456881b8cd948762c2b940cdde89e0/Matthew%20Grinton's%20Resume.pdf)
+- 📄 Know about my experiences [https://github.com/GRINTOMA/GRINTOMA/blob/a6491950796e7b2c90ef35ec17743d39eb760877/Matthew%20Grinton's%20Resume.pdf](https://github.com/GRINTOMA/GRINTOMA/blob/68561ca06a456881b8cd948762c2b940cdde89e0/Matthew%20Grinton's%20Resume.pdf)
 
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/matthew-grinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-grinton" height="30" width="40" /></a>
