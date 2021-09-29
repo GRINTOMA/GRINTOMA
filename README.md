@@ -8,7 +8,7 @@ I'm currently working on a React and SpringBoot based web app store. Check it ou
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grintoma&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![ GRINTOMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=grintoma&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grintoma&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![ GRINTOMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=grintoma&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GRINTOMA/GRINTOMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
