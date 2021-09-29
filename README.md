@@ -1,6 +1,15 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/GRINTOMA/GRINTOMA/master/wave.gif" width="30px">
 
-My name is Matthew Grinton, I'm a Canadian software developer who recently graduated from Sheridan College. You can find me on [![LinkedIn][3.2]][3].
+My name is Matthew Grinton, I'm a Canadian software developer who recently graduated from Sheridan College.
+
+## &#x270d; Current Work
+
+I'm currently working on a React and SpringBoot based web app store. Check it out <a href="https://github.com/GRINTOMA/Team-App-Dev">HERE</a>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/GRINTOMA/GRINTOMA"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/
+  ?username=GRINTOMA"/></a>
 <!--
 **GRINTOMA/GRINTOMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
