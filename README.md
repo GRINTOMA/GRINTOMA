@@ -7,7 +7,7 @@ My name is Matthew Grinton, I'm a Canadian software developer who recently gradu
 I'm currently working on a React and SpringBoot based web app store. Check it out <a href="https://github.com/GRINTOMA/Team-App-Dev">HERE</a>
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
