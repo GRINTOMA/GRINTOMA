@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matt Grinton</h1>
-<h3 align="center">A recent college graduate and developer</h3>
+<h3 align="center">A Senior Developer at Royal Bank of Canada</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=grintoma&label=Profile%20views&color=0e75b6&style=flat" alt="grintoma" /> </p>
 
--  🌱 I’m currently learning **Python and Ruby**
+-  🌱 I’m currently creating a web app for D&D 5e (2024) to track and select subclasses for a campaign.
 
 -  📫 How to reach me **matt.grinton@gmail.com**
 
